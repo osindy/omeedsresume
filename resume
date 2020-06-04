@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<body style="background-color:lightcyan;">
+<!--------------------------------------CSS Code----------------------------------------->  
+
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: Center;
+} 
+
+div.d {
+  text-align: left;  
+} 
+
+div.e {
+  text-align: left;  
+  
+} 
+
+} 
+
+div.f {
+  text-align: left;  
+  
+} 
+</style>
+<!--------------------------------------Main HTML----------------------------------------->  
+ <div class="a">
+   <h2>Omeed Adham Sindy</h2>
+ <p> (773) 817-8109<p>
+ <p> <a href="omeedadhamsindy@gmail.com">Omeedadhamsindy@gmail.com</a> <p>
+   <p>================================================================================================<p>
+</div>
+  
+  <div class="b">
+    <h3>&emsp;EDUCATION:</h3>
+<p>&emsp; Northeastern Illinois University, Chicago, IL &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;December 2020<p>
+      <p>&emsp;BS in Management &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; GPA: 3.0/4.0
+  </div>
+  <div class="c">
+  <p>================================================================================================<p>
+  </div>
+<div class="d">
+<h3>&emsp;EXPERIENCE<h3>
+
+<!--AMA-->
+
+<h4>&emsp;<a href="https://www.ama-assn.org/">American Medical Association</a> <h4>
+
+<!---Aanimation--->
+<iframe src="https://giphy.com/embed/xUA7biF7n8LcAqh4bK" width="150" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-heart-xUA7biF7n8LcAqh4bK"></a></p>
+<!---Aanimation--->
+
+<h4>&emsp;I.T. Operations Coordinator&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; November 2018 - Present <h4>
+</div> 
+
+<ul>
+  <li>Implementing new IT procurement processes that increased the efficiency of staff workflow.</li>
+  <li>Working closely with the CIO to schedule, manage, and report daily to daily projects.</li>
+  <li>Overseeing organization-wide equipment complies with standards.</li>
+  <li>Managing all IT contracts that grosses between one to five hundred thousand.</li>
+  <li>Managing projects that will reduce the cost of the IT department by 10% yearly.</li>
+  <li>Streamlining procurement methods to allow changes to be made without impacting workflow.</li>
+  
+</ul>
+
+<!--120 Seconds Advice-->
+
+<div class="e"> 
+ <h4>&emsp;<a href="facebook.com/120secondsadvice">120 Seconds Advice</a> <h4>
+ 
+ <!---Aanimation--->
+<iframe src="https://giphy.com/embed/3o7qDEq2bMbcbPRQ2c" width="150" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mic-drop-peace-out-obama-3o7qDEq2bMbcbPRQ2c"></a></p>
+<!---Aanimation--->
+
+<h4>&emsp;Co-Founder / CEO &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; August 2018 - Present <h4>
+</div>
+
+<p>
+<ul>
+  <li>Responsible for budgeting and spending on software and equipment. </li>
+  <li>Responsible for the creation of quality, brand-enhancing visual content.</li>
+  <li>Create marketing strategies for all audiences. </li>
+  <li>Knowledge of social media best practices and the ability to create engaging experiences.</li>
+  <li>Strong conceptualization skills around photo & video concepts and styling.</li>
+  <li>Knowledge of video production & editing tools including Premiere Pro, iMovie, Final Cut Pro or equivalent</li>
+  </ul>
+<p>  
+</div>
+
+<!--Chinese Mutual Aid Association-->
+
+<div class="f"> 
+<h4><a href="chinesemutualaid.org">&emsp;Chinese Mutual Aid Association</a> <h4>
+<h4>&emsp;I.T. Coordinator/ Associate Project Manager &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;August 2017 - November 2018 <h4>
+</div>
+
+<p>
+<ul>
+  <li>Managed the “CRM Salesforce” project for one year. Improved client-staff intake and cut the staff time by 20%.</li>
+  <li>Implemented a T-Mobile Tablet project for over 150 employees. Cut yearly cost by 35% in four months.</li>
+  <li>Managed project to ensure refresh equipment for all employees to comply with up to date technology.</li>
+  <li>Led the “How to” project that trained all staff on organization required processes. Cut support center calls by 20%.</li>
+  <li>Drove a high-performance IT team to reduce cost spending by 25% by implementing a new equipment life cycle program.</li>
+  </ul>
+</div>
+
+</head>
+<body>
+
+</body>
+</html>
